@@ -38,5 +38,5 @@ Receives the text inserted by the frontend and inserts it into a Model.
 Endpoint 2: "http://localhost:80/api/ngrams"
 Call the Node Server API to get the ngrams for last two messages.
 
-Endpoint 1: "http://localhost:8000/get_ngrams/"
+Endpoint 3: "http://localhost:8000/get_ngrams/"
 Calls the Django API using the two most recent strings and returns the ngrams to the frontend.
